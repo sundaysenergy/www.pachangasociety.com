@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.pachangasociety.com/audio" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Audio</title>
+    <link>http://www.pachangasociety.com/audio</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>La Piragua</title>
+    <link>http://www.pachangasociety.com/node/36</link>
+    <description>&lt;object type=&quot;application/x-shockwave-flash&quot; data=&quot;/sites/all/modules/audio/players/1pixelout.swf&quot; width=&quot;290&quot; height=&quot;24&quot; &gt;
+  &lt;param name=&quot;movie&quot; value=&quot;/sites/all/modules/audio/players/1pixelout.swf&quot; /&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;false&quot; /&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot; /&gt;
+  &lt;param name=&quot;FlashVars&quot; value=&quot;soundFile=http%3A%2F%2Fwww.pachangasociety.com%2Faudio%2Fplay%2F36&quot; /&gt;
+  &lt;embed src=&quot;/sites/all/modules/audio/players/1pixelout.swf&quot; flashvars=&quot;soundFile=http%3A%2F%2Fwww.pachangasociety.com%2Faudio%2Fplay%2F36&quot; width=&quot;290&quot; height=&quot;24&quot; /&gt;
+&lt;/object&gt;&lt;br /&gt;4:05 minutes (3.75 MB)</description>
+     <enclosure url="http://www.pachangasociety.com/audio/download/36/La_Piragua.mp3" length="3930950" type="audio/mpeg" />
+ <itunes:duration>4:05</itunes:duration>
+ <itunes:author>Pachanga Society</itunes:author>
+ <pubDate>Mon, 01 Jun 2009 03:03:13 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">36 at http://www.pachangasociety.com</guid>
+  </item>
+  <item>
+    <title>Guepa Je</title>
+    <link>http://www.pachangasociety.com/node/37</link>
+    <description>&lt;object type=&quot;application/x-shockwave-flash&quot; data=&quot;/sites/all/modules/audio/players/1pixelout.swf&quot; width=&quot;290&quot; height=&quot;24&quot; &gt;
+  &lt;param name=&quot;movie&quot; value=&quot;/sites/all/modules/audio/players/1pixelout.swf&quot; /&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;false&quot; /&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot; /&gt;
+  &lt;param name=&quot;FlashVars&quot; value=&quot;soundFile=http%3A%2F%2Fwww.pachangasociety.com%2Faudio%2Fplay%2F37&quot; /&gt;
+  &lt;embed src=&quot;/sites/all/modules/audio/players/1pixelout.swf&quot; flashvars=&quot;soundFile=http%3A%2F%2Fwww.pachangasociety.com%2Faudio%2Fplay%2F37&quot; width=&quot;290&quot; height=&quot;24&quot; /&gt;
+&lt;/object&gt;&lt;br /&gt;3:40 minutes (3.36 MB)</description>
+     <enclosure url="http://www.pachangasociety.com/audio/download/37/Guepa_Je.mp3" length="3518926" type="audio/mpeg" />
+ <itunes:duration>3:40</itunes:duration>
+ <itunes:author>Pachanga Society</itunes:author>
+ <pubDate>Mon, 01 Jun 2009 03:05:15 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">37 at http://www.pachangasociety.com</guid>
+  </item>
+  <item>
+    <title>Nube&#039; Blanca</title>
+    <link>http://www.pachangasociety.com/node/38</link>
+    <description>&lt;object type=&quot;application/x-shockwave-flash&quot; data=&quot;/sites/all/modules/audio/players/1pixelout.swf&quot; width=&quot;290&quot; height=&quot;24&quot; &gt;
+  &lt;param name=&quot;movie&quot; value=&quot;/sites/all/modules/audio/players/1pixelout.swf&quot; /&gt;
+  &lt;param name=&quot;wmode&quot; value=&quot;transparent&quot; /&gt;
+  &lt;param name=&quot;menu&quot; value=&quot;false&quot; /&gt;
+  &lt;param name=&quot;quality&quot; value=&quot;high&quot; /&gt;
+  &lt;param name=&quot;FlashVars&quot; value=&quot;soundFile=http%3A%2F%2Fwww.pachangasociety.com%2Faudio%2Fplay%2F38&quot; /&gt;
+  &lt;embed src=&quot;/sites/all/modules/audio/players/1pixelout.swf&quot; flashvars=&quot;soundFile=http%3A%2F%2Fwww.pachangasociety.com%2Faudio%2Fplay%2F38&quot; width=&quot;290&quot; height=&quot;24&quot; /&gt;
+&lt;/object&gt;&lt;br /&gt;3:36 minutes (3.3 MB)</description>
+     <enclosure url="http://www.pachangasociety.com/audio/download/38/Nube_Blanca.mp3" length="3459074" type="audio/mpeg" />
+ <itunes:duration>3:36</itunes:duration>
+ <itunes:author>Pachanga Society</itunes:author>
+ <pubDate>Mon, 01 Jun 2009 03:06:55 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">38 at http://www.pachangasociety.com</guid>
+  </item>
+  </channel>
+</rss>
